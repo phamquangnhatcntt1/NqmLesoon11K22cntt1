@@ -1,0 +1,75 @@
+﻿@model NqmLeson11K22cntt1.Models.NqmTaiKhoan
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_NqmLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NqmTaiKhoan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmUseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmUseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NqmStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NqmStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NqmId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

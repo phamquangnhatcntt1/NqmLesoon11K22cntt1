@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Nqmlesson11DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NqmTaiKhoan">
+    <Key>
+      <PropertyRef Name="NqmId" />
+    </Key>
+    <Property Name="NqmId" Type="Int32" Nullable="false" />
+    <Property Name="NqmUseName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NqmPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NqmFullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NqmAge" Type="Int32" />
+    <Property Name="NqmEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NqmPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NqmStatus" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="Nqmlesson11DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NqmTaiKhoan" EntityType="Self.NqmTaiKhoan" />
+  </EntityContainer>
+</Schema>

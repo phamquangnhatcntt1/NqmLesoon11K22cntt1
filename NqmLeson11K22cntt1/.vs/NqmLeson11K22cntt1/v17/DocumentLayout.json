@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\NqmLeson11K22cntt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\modelviews\\nqmloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\modelviews\\nqmloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\models\\nqmmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\models\\nqmmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmhome\\nqmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmhome\\nqmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\views\\nqmhome\\nqmcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmhome\\nqmcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmhome\\nqmindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmhome\\nqmindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmtaikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmtaikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmtaikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmtaikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmtaikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmtaikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmtaikhoans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmtaikhoans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\views\\shared\\_nqmlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\shared\\_nqmlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|d:\\asp.net\\nqmleson11k22cntt1\\nqmleson11k22cntt1\\controllers\\nqmtaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\controllers\\nqmtaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\controllers\\nqmhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\controllers\\nqmhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|D:\\asp.net\\NqmLeson11K22cntt1\\nqmleson11k22cntt1\\views\\nqmtaikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E9CF0B-99C3-413F-9952-12CF2F70D492}|NqmLeson11K22cntt1\\NqmLeson11K22cntt1.csproj|solutionrelative:nqmleson11k22cntt1\\views\\nqmtaikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:41:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:39:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_NqmLayout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\Shared\\_NqmLayout.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\Shared\\_NqmLayout.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\Shared\\_NqmLayout.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\Shared\\_NqmLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:37:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NqmModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Models\\NqmModel.edmx",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Models\\NqmModel.edmx",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Models\\NqmModel.edmx [Diagram1]",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Models\\NqmModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-01T12:26:43.986Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NqmLoginModel.cs",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\ModelViews\\NqmLoginModel.cs",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\ModelViews\\NqmLoginModel.cs",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\ModelViews\\NqmLoginModel.cs",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\ModelViews\\NqmLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:25:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NqmContact.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmContact.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmContact.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmContact.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:22:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NqmTaiKhoansController.cs",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Controllers\\NqmTaiKhoansController.cs",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Controllers\\NqmTaiKhoansController.cs",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Controllers\\NqmTaiKhoansController.cs",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Controllers\\NqmTaiKhoansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:21:44.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Index.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Index.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Index.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:16:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Edit.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Edit.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Edit.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:16:15.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Details.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Details.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Details.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Details.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:16:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Delete.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Delete.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Delete.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:16:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NqmIndex.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmIndex.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmIndex.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmIndex.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:13:27.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Create.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Create.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Create.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmTaiKhoans\\Create.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:11:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NqmAbout.cshtml",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmAbout.cshtml",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmAbout.cshtml",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Views\\NqmHome\\NqmAbout.cshtml",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Views\\NqmHome\\NqmAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:10:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NqmHomeController.cs",
+              "DocumentMoniker": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Controllers\\NqmHomeController.cs",
+              "RelativeDocumentMoniker": "NqmLeson11K22cntt1\\Controllers\\NqmHomeController.cs",
+              "ToolTip": "D:\\asp.net\\NqmLeson11K22cntt1\\NqmLeson11K22cntt1\\Controllers\\NqmHomeController.cs",
+              "RelativeToolTip": "NqmLeson11K22cntt1\\Controllers\\NqmHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:38:00.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
